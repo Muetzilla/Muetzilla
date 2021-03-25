@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muetzilla&" alt="muetzilla" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muetzilla)
