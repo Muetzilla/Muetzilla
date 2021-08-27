@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ... .
+- 📫 How to reach me: ... ........
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muetzilla)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTgyNjI3NCwtMTU3Nzg3ODU2LDYyNj
-EyODkxNiwtNjExMTc2NDI4LDQ0MDk0ODMyMiw2MjYxMjg5MTYs
-LTIwMDM5NDg2MzgsLTE1Nzc4Nzg1Nl19
+eyJoaXN0b3J5IjpbLTIwMDk0MzIzMDAsLTE1Nzc4Nzg1Niw2Mj
+YxMjg5MTYsLTYxMTE3NjQyOCw0NDA5NDgzMjIsNjI2MTI4OTE2
+LC0yMDAzOTQ4NjM4LC0xNTc3ODc4NTZdfQ==
 -->
