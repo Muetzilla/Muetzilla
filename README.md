@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <!--
-**Muetzilla/Muetzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Muetzilla/Muetzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muetzilla)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc4Nzg1Niw2MjYxMjg5MTYsLTE3Nj
-IxNjU3OTAsNjcwMTk1MTU2LC0yMDAzOTQ4NjM4LC0xNTc3ODc4
-NTYsNjI2MTI4OTE2LC02MTExNzY0MjgsNDQwOTQ4MzIyLDYyNj
-EyODkxNiwtMTU3Nzg3ODU2XX0=
+eyJoaXN0b3J5IjpbLTIwNTAxMTE4ODYsLTE1Nzc4Nzg1Niw2Mj
+YxMjg5MTYsLTE3NjIxNjU3OTAsNjcwMTk1MTU2LC0yMDAzOTQ4
+NjM4LC0xNTc3ODc4NTYsNjI2MTI4OTE2LC02MTExNzY0MjgsND
+QwOTQ4MzIyLDYyNjEyODkxNiwtMTU3Nzg3ODU2XX0=
 -->
