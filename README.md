@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muetzilla)
 
-See some of my Stats...
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYwNDE2MTcsLTE1Nzc4Nzg1NiwtMT
-U3Nzg3ODU2LC0xNTc3ODc4NTYsNjI2MTI4OTE2LC0xNzYyMTY1
-NzkwLDY3MDE5NTE1NiwtMjAwMzk0ODYzOCw2MjYxMjg5MTYsLT
-YxMTE3NjQyOCw0NDA5NDgzMjIsNjI2MTI4OTE2XX0=
+eyJoaXN0b3J5IjpbMTM1MTE5MTA1MiwtMTU3Nzg3ODU2LC0xNT
+c3ODc4NTYsLTE1Nzc4Nzg1Niw2MjYxMjg5MTYsLTE3NjIxNjU3
+OTAsNjcwMTk1MTU2LC0yMDAzOTQ4NjM4LDYyNjEyODkxNiwtNj
+ExMTc2NDI4LDQ0MDk0ODMyMiw2MjYxMjg5MTZdfQ==
 -->
