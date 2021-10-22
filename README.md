@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <p>
   <img alt="stats" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muetzilla&theme=dracula"/>
   </p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
 
 
 <!--
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muetzilla)
 -->
