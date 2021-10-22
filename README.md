@@ -1,4 +1,5 @@
 ### Hello there 👋
+![GitHub metrics](https://metrics.lecoq.io/Muetzilla)
 
 <!--
 **Muetzilla/Muetzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
