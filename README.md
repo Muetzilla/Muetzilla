@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img alt="stats" width="500em" height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muetzilla&theme=dracula"/>
+  <img alt="stats" width="500em" height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muetzilla&theme=dracula"/
+</p>  
+<p>
   <img alt="stats" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muetzilla&theme=dracula"/>
-  </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
+  </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muetzilla&show_icons=true&locale=en" alt="muetzilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muetzilla&" alt="muetzilla" /></p>
 
