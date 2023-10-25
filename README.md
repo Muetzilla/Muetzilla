@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-Try <a href="https://www.codegrepper.com/"> Grepper </a>an extesion for your browser which allows you to easily see code snippets of other developers or add some yourself to help other developers. 😄 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muetzilla&label=Profile%20views&color=0e75b6&style=flat" alt="muetzilla" /> </p>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Muetzilla)
