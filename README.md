@@ -10,6 +10,10 @@
   <img alt="stats" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muetzilla&theme=dracula"/>
   
   <br>
+
+  <img alt="stats" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muetzilla&theme=dracula&layout=pie"/>
+
+  <br>
   
   <img alt="stats" width="500em" height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muetzilla&theme=dracula"/>
 
